@@ -1,12 +1,8 @@
-# Picmal Releases
-
-This repository hosts the official release binaries for [Picmal](https://picmal.app) - an all-in-one media converter for Mac.
-
-## About Picmal
+# Convert & compress media files in seconds
 
 Picmal is a macOS application that can be used to convert and compress images, videos and audio files. It works offline, so your files are kept safe on your Mac.
 
-### Key Features
+### Features
 
 - Convert one or more files across 90+ formats:
   - Images: JPEG, PNG, GIF, HEIC, WebP, AVIF, PSD, RAW, SVG, PDF, and 20+ more
@@ -22,16 +18,12 @@ Picmal is a macOS application that can be used to convert and compress images, v
 
 ## Download
 
-### Latest Release
+- [Latest version](https://github.com/albertogalca/picmal-releases/releases/latest).
+- [Changelog](https://picmal.app/changelog)
 
-Download the latest version directly from the [releases page](https://github.com/albertogalca/picmal-releases/releases/latest).
+## System Requirements
 
-Or download directly: [Picmal.dmg](https://github.com/albertogalca/picmal-releases/releases/latest/download/Picmal.dmg)
-
-### System Requirements
-
-- macOS 13.0 or later
-- No additional software installation required - everything is bundled in the app
+- macOS 14.0 or later
 
 ## Learn More
 
