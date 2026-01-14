@@ -1,5 +1,7 @@
 # Convert & compress media files in seconds
 
+![Picmal App](picmal.png)
+
 Picmal is a macOS application that can be used to convert and compress images, videos and audio files. It works offline, so your files are kept safe on your Mac.
 
 ### Features
