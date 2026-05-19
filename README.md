@@ -25,7 +25,7 @@ Picmal is a macOS application that can be used to convert and compress images, v
 
 ## System Requirements
 
-- macOS 14.0 or later
+- macOS 15.0 or later
 
 ## Learn More
 
